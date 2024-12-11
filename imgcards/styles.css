@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+.img1{
+    margin: 30px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    height: 450px;
+  }
+  
+  h3{
+    text-align: center;
+  }
+  .img2{
+    margin: 30px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    height: 450px;
+   
+  }
+  .hed{
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+
+  }
+  
+.para{
+  font-size: 13px;
+ font-weight: bold;
+ text-align: center;
+ padding: 20px;
+}
+.img1:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px;
+}
+.img2:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px;
+}
+.hed1{
+  background-color: aqua;
+  text-align: center;
+  margin: 10px;
+
+  
+}
+
+
+  
+
